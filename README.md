@@ -12,5 +12,5 @@ Les axes sont générés automatiquement via D3.js, tout comme les échelles tem
 
 ## Aperçu du projet
 
-![Aperçu du Bar Chart](assets/barchart-preview.png)
+![Aperçu du Bar Chart](assets/graphe.png)
 
